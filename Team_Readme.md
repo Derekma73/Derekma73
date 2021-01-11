@@ -8,26 +8,26 @@ Usually I prefer meeting in person or over a video chat as I find this is the qu
 
 I see Slack and email as nearly synonymous and have each on my phone, though generally prefer slack because it tracks conversations better than email. I usually defer to the preferences of my team and the formality of the context when choosing one or the other. 
 
-If a scheduled event of any kind(phone call, in-person, conference) is discussed in a conversation with me, I appreciate calendar invites, because if it's not in my calendar then I'll likely forget about it.
+If a scheduled event of any kind(phone call, in-person, conference) is discussed in a conversation with me, I appreciate calendar invites because if it's not in my calendar then I'll likely forget about it.
 
 ### Personal Intention for Planning Day
 I'm looking forward to mapping out our teams' priorities for the next year. My background in the military can leave me craving direction, so I value understanding where to go and what needs done first.
 
 ### Personal Principles / Values
-I generally assume that most people are working towards a better future politically, professionally, and personally. I find that if someone does something I disagree with, I tend to see it as a disagreement about tactics rather than values. However, if I find that someone has done something I find to be blatantly immoral rather than misguided I will not hesitate to shame that person and avoid them in the future. 
+I generally assume that most people are working towards a better future politically, professionally, and personally. I find that if someone does something I disagree with, I tend to see it as a disagreement about tactics rather than values. However, if I find that someone has done something I deem to be blatantly immoral rather than misguided I will not hesitate to shame that person and avoid them in the future. 
 
 I'm extremely passionate about the goals of the labor movement and as such I can sometimes seem overly serious. In addition to AFSCME, I recently joined the International Workers of the World (IWW) and have plans to join other political organizations once I am no longer in the military.
 
 ## Optional Responses
 
 ### You: OOO
-Outside of work at AFSCME I'm in the Army Reserves as a Civil Affairs Officer. I'm currently seeking discharge from this by way of conscientious objection, though this process has been slow and somewhat draining my excess energy.
+Outside of AFSCME I'm in the Army Reserves as a Civil Affairs Officer, though I was also an Engineer. I'm currently seeking discharge from this by way of conscientious objection, though this process has been slow and somewhat draining my excess energy.
 
-When I do have energy, I love exercising by running and spending time in the gym. I was training for a triathalon last fall, though my hope is that this fall post-COVID I'll be able to make those plans a reality. I also love hiking, mountain biking, and enjoyed playing ultimate frisbee with a group in Northern VA prior to COVID. 
+When I do have energy, I love exercising by running and spending time in the gym. I was training for a triathalon last fall, though my hope is that this fall post-COVID I'll be able to actualize those plans. I also love hiking, mountain biking, and enjoyed playing ultimate frisbee with a group in Northern VA prior to COVID. 
 
-I love to read philosophy books, though it seems as though I do a better job of starting them than I do of finishing them. I'm always down to discuss various philosophers or their ideas! I'm passionate about politics and political theory, but also have interests in philosophy of science, philosophy of computer science, ethics, philosophy of mind, and cultural commentary/analysis. I used to love writing in college, though this is a habit that's dwindled over the years to a few specific projects and poems. 
+I love to read philosophy books, though it seems as though I do a better job of starting them than I do of finishing them. I'm always down to discuss various philosophers or their ideas! I'm passionate about politics and political theory, but also have interests in philosophy of science (specifically within biology, computer science, and physics), ethics, philosophy of mind, and cultural commentary/analysis. I used to love writing in college, though this is a habit that's dwindled over the years to a few specific projects and poems. 
 
-I like playing card and board games with friends and watching movies with my girlfriend Konica. I also play video games - I have a PS4 and play Overwatch consistently and rotate through other single player games when that gets tiring (Horizon Forbidden West, Final Fantasy 7 remake, The Last of Us parts one and 2). I also play minecraft, pokemon, mario kart, and super smash brothers on my switch.
+I like playing card and board games with friends and watching movies with my girlfriend Konica. I also play video games - I have a PS4 and play Overwatch consistently and rotate through other single player games when that gets boring (Horizon Zero Dawn, Final Fantasy 7 remake, The Last of Us parts one and two). I also play minecraft, pokemon, mario kart, and super smash brothers on my switch (sometimes with my younger brothers).
 
 Once the pandemic started I also picked up gardening and playing the guitar. I grew/am growing tomatoes, mint, fennugreek, a bonsai tree, and basil. So far on the guitar I can play a nursery rhyme and "Ode to Joy" by Beethoven. 
 
