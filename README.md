@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on maintaining, establishing, and automating data pipelines for AFSCME
 - 🌱 I’m currently learning Luigi, Airflow, AWS, Advanced Python, SQL, Neo4j, NoSQL, and probably more
 - 👯 I’m looking to collaborate on apps for progressive causes
-- 💬 Ask me about Philosophy, Socialism, and Communism
+- 💬 Ask me about Philosophy!
 - 📫 How to reach me: email derekma73@gmail.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Though I'm currently in the Army Reserves, I have submitted a Conscientious Objector packet and hope to be out of the Army by 2021. Violence just isn't cool. I also majored in philosophy :mortar_board:
