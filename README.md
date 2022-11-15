@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on maintaining, establishing, and automating data pipelines for AFSCME
-- 🌱 I’m currently learning Luigi, Airflow, AWS, Advanced Python, SQL, Neo4j, NoSQL, and probably more
-- 👯 I’m looking to collaborate on apps for progressive causes
+- 🔭 I’m currently working on maintaining, establishing, and automating DAGs
+- 🌱 I’m currently learning Airflow, AWS, Advanced Python, SQL, Neo4j, NoSQL, GraphQL, and probably more
 - 💬 Ask me about Philosophy!
 - 📫 How to reach me: email derekma73@gmail.com
 - 😄 Pronouns: he/him/his
